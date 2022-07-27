@@ -1,0 +1,31 @@
+body{
+background-image: url("jj.webp");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: cover;
+font-family: Fantasy, sans-serif;
+border-style: double;
+}
+h1{
+background-color:#facde0;
+color:black;
+text-shadow: 0 0 5px #d697c1;
+opacity:70%;
+border-style: double;
+width:1200px;
+height:40px;
+text-align: center;
+}
+
+.myDiv{
+background-color: #facde0;
+border: 3px outset#ffdc7c7;
+text-align: center;
+color:black;
+opacity:80%;
+
+
+}
+div{
+margin: 100px 150px;
+}
